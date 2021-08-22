@@ -1,0 +1,50 @@
+.contenedor{
+    background-color: black;
+    width: 500px;
+    height: 400px;   
+    
+    
+  
+
+}
+
+.rojo{
+    position: relative;
+    left: 370px;
+    top: 10px;
+
+background-color: red;
+width: 100px;
+height: 100px;
+margin: 10px;
+font-size: 30px;
+
+
+
+}
+.verde{
+    position: relative;
+    left: 370px;
+    top: 10px;
+ 
+background-color: green;
+width: 100px;
+height: 100px;
+margin: 10px;
+font-size: 30px;
+
+
+}
+
+.azul{
+    position: relative;
+    left: 370px;
+    top: 10px;
+
+background-color: blue;
+width: 100px;
+height: 100px;
+margin: 10px;
+font-size: 30px;
+
+}
